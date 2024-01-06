@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ["semistandard", "standard"],
+  extends: ["plugin:sonarjs/recommended", "semistandard", "standard"],
 };
